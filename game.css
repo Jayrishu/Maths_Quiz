@@ -1,0 +1,25 @@
+body
+{
+	background: yellowgreen;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left:5px;
+}
+#no1, #no2
+{
+	width: 60%;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player1_name, #player1_score, #player2_name, #player2_score{
+	font-size: 20px;
+}
